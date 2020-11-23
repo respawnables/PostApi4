@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PostApi4</string>
+    <string name="tvKullaniciKaydi">Kullanıcı Kaydı</string>
+    <string name="tilKullaniciAdi">Kullanici Adi</string>
+    <string name="tilAdi">Adı</string>
+    <string name="tilSoyadi">Soyadı</string>
+    <string name="tilEposta">Eposta</string>
+    <string name="btnKullaniciKayit">Kullanıcı Kayıt Ol</string>
+    <string name="tvKullaniciListem">Kullanıcı Listesi</string>
+    <string name="tvKullaniciAdi">TBMYO</string>
+    <string name="tvKullaniciDetay">Kullanıcı Detay</string>
+    <string name="tvDetayKullaniciAdi">Kullanıcı Adı : </string>
+    <string name="tvDetayEmail">Eposta : </string>
+    <string name="tvDetayKatilan">Katılan</string>
+
+
+</resources>
